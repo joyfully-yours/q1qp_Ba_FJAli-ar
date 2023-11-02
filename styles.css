@@ -98,3 +98,27 @@
     display: flex;
     align-content: flex-start;
 }
+
+.me img{
+    height: 130px;
+    width: 130px;
+    border-radius: 60%;
+    padding-left: 46%;    
+}
+
+.research{
+    background-image: url(stat.jpg);
+}
+
+.me{
+    padding: 10px;
+    margin-bottom: 50px;
+    height: 66vh;
+    width: 97vw;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
